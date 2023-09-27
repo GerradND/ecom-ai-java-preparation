@@ -1,5 +1,5 @@
 package com.example.onboarding.testDay1.model;
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import org.hibernate.annotations.OnDelete;
 import org.hibernate.annotations.OnDeleteAction;
